@@ -7,7 +7,8 @@ I work as a **Software Developer** and study **Industrial Engineering and Manage
 - Currently working as a **software developer**
 - Have a degree in **Web Development**
 - Right now I'm working on **building an app**
-- I like solving problems and writing **structured, readable code**
+- I also work **voluntarily** with development and maintenance of the **student section’s websites** https://i-portalen.se/
+- Former **Chairman** of the section’s web group, currently **Vice Chairman**
 - A **personal portfolio** is coming soon
 
 ## Tech
