@@ -1,35 +1,42 @@
 # Hi, I'm Edwin 👋
 
 I'm **Edwin Lundbäck** (`edlu2100`).  
-I work as a **Software Developer** and study **Industrial Engineering and Management (Industriell ekonomi)** at **Linköping University, Sweden** 🇸🇪.
+I work as a **Software Developer** and study **Industrial Engineering and Management** at **Linköping University, Sweden** 🇸🇪.
 
 ## About me
 - Currently working as a **software developer**
 - Have a degree in **Web Development**
 - Right now I'm working on **building an app**
-- A **personal portfolio** is coming soon
 - I like solving problems and writing **structured, readable code**
+- A **personal portfolio** is coming soon
 
 ## Tech
 **Languages**
 - TypeScript (main language)
 - JavaScript
-- Ada (university projects)
-- HTML & CSS
+- PHP
+- C#
+- HTML
+- CSS / SASS
 
-**Tools / Concepts**
+**Frameworks and tools**
 - Node.js
+- Vue 
+- React
+- Wordpress
+- Laravel
 - Git & GitHub
-- Basic backend concepts
+- Frontend
+- Backend
 - Algorithms & data structures
 - LaTeX
-- Experience working with constraints and low-level logic (e.g. image handling in PPM)
+
 
 ## Repositories
 Here you'll find:
-- Personal and work-related projects
-- Ongoing app development
+- Personal projects
 - University assignments and experiments
 
 ## Contact
 - GitHub: [@edlu2100](https://github.com/edlu2100)
+- Linkedin: [edwinlundback](https://www.linkedin.com/in/edwinlundback/)
