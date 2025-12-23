@@ -1,7 +1,7 @@
 # Hi, I'm Edwin 👋
 
-I'm **Edwin Lundbäck** (`edlu2100`).  
-I work as a **Software Developer** and study **Industrial Engineering and Management** at **Linköping University, Sweden** 🇸🇪.
+I'm **Edwin Lundbäck** (`edlu2100`), 24 years old, based in **Linköping, Sweden** 🇸🇪.  
+I work as a **Software Developer** and study **Industrial Engineering and Management** at **Linköping University**.
 
 ## About me
 - Currently working as a **software developer**
