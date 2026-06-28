@@ -41,4 +41,4 @@ Here you'll find:
 ## Contact
 - GitHub: [@edlu2100](https://github.com/edlu2100)
 - Linkedin: [edwinlundback](https://www.linkedin.com/in/edwinlundback/)
-- Portfolio: [www.edwinlundback.se](https://www.edwinlundback.se)
+- Portfolio: [www.edwinlundback.com](https://www.edwinlundback.com)
