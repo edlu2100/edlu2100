@@ -9,7 +9,7 @@ I work as a **Software Developer** and study **Industrial Engineering and Manage
 - Right now I'm working on **building an app**
 - I also work **voluntarily** with development and maintenance of the **student section’s websites** https://i-portalen.se/
 - Former **Chairman** of the section’s web group, currently **Vice Chairman**
-- A **personal portfolio** is coming soon
+
 
 ## Tech
 **Languages**
@@ -41,3 +41,4 @@ Here you'll find:
 ## Contact
 - GitHub: [@edlu2100](https://github.com/edlu2100)
 - Linkedin: [edwinlundback](https://www.linkedin.com/in/edwinlundback/)
+- Portfolio: [www.edwinlundback.se](www.edwinlundback.se)
